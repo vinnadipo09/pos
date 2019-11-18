@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/">
+        <file>data/avatarOne.png</file>
+        <file>data/avatarTwo.png</file>
+        <file>data/background.jpg</file>
+        <file>data/idOne.png</file>
+        <file>data/idTwo.jpg</file>
+        <file>data/bg2.jpg</file>
+        <file>data/bg3.jpg</file>
+        <file>data/bg4.jpg</file>
+        <file>data/mainbg.jpg</file>
+        <file>data/av1.png</file>
+        <file>data/user-avatar.png</file>
+        <file>data/wallet.png</file>
+        <file>data/icons/backgroundOne.jpg</file>
+        <file>data/icons/backgroundSupport.png</file>
+        <file>data/icons/backgroundThree.jpg</file>
+        <file>data/icons/backgroundTwo.jpg</file>
+        <file>data/icons/preferred4.jpg</file>
+        <file>data/icons/preferredbackground.jpg</file>
+        <file>data/icons/preferredFive.jpg</file>
+        <file>data/icons/preferredTwo.jpg</file>
+        <file>data/icons/wallet.png</file>
+        <file>data/icons/wallet 1.png</file>
+        <file>login.cpp</file>
+        <file>data/icons/mainbackgroundOne.jpg</file>
+        <file>data/icons/workbackground.jpg</file>
+        <file>data/icons/workbackgroundFive.jpg</file>
+        <file>data/icons/workbackgroundFour.jpg</file>
+        <file>data/icons/workbackgroundThree.jpg</file>
+        <file>data/icons/workbackgrounTwo.jpg</file>
+    </qresource>
+</RCC>
